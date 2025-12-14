@@ -16,7 +16,7 @@
 
 A /uses page lists a developer's setup, gear, software, and configs (what they *use*). It's a great reference for those looking to add to their library of tools or reconfigure ones they already use.
 
-**The URL MUST to follow the format of use|uses|using|setup|environment at the end.** 
+**The URL MUST follow the format of use|uses|using|setup|environment at the end.** 
 
 ### What Should I Include?
 
@@ -30,6 +30,7 @@ Include the hardware you use, such as your computer and other related equipment.
 * Ensure this PR has a title in the following format
     * ✅ Add Your Name
     * ✅ Add @twitterusername
+    * ✅ Add @mastodonusername@instance.url
     * ❌ Add myself
     * ❌ Adding myself!
     * ❌ Add Your Name @twitter @github
