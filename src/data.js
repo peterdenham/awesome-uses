@@ -17763,9 +17763,8 @@ module.exports = [
   },
   {
     name: 'Peter Denham',
-    description: 'Programmer/developer/dad in Ottawa Ontario, Canada',
+    description: 'Developer/dad in Boston area, USA',
     url: 'https://www.denham.ie/uses/',
-    twitter: '@peterdenham',
     emoji: '⭐️',
     country: '🇮🇪',
     computer: 'apple',
